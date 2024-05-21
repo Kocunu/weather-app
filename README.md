@@ -31,3 +31,5 @@
 
 * Füge grundlegende CSS-Styling hinzu, um die Anwendung optisch ansprechend zu gestalten.
 * (Gerne Frameworks(Bootstrap,etc...))
+
+![example.png](example.png)
